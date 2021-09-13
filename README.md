@@ -101,7 +101,7 @@ python demo_tuch.py --checkpoint=data/tuch_model_checkpoint.pt  \
 
 ### SMPLify-DC demo
 You can use the following command to run SMPLify-DC on our DSC data, after pre-processing it. 
-See [readme](lib/datasets/preprocess/README.md) for instructions. The output are the initial SPIN 
+See [readme](tuch/datasets/preprocess/README.md) for instructions. The output are the initial SPIN 
 estimate (columns 2 and 3) and the SMPLify-DC optimized result (column 4 and 5).
 
 ```
